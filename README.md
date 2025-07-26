@@ -31,7 +31,7 @@ Frontend developer with **6 years** of commercial experience, skilled in React a
 - Optimized bundle size, decreasing it by 13,5%
 - Technologies: TypeScript, React, Redux toolkit, Jest, Storybook
 
-[SNOWFLAKE](https://www.snowflake.com/en/emea/): 10/2018 - 04/2021, 2.4 years
+[SNOWFLAKE](https://www.snowflake.com/en/emea/): 10/2019 - 04/2021, 1.4 years
 - Optimized React components, reducing reported freezes on low-performance devices by 70,9%
 - Added UI tests to the PR pipeline, reducing the number of reported UI bugs by 8%
 - Migrated 100+ class components to functional components
@@ -39,11 +39,11 @@ Frontend developer with **6 years** of commercial experience, skilled in React a
 
 # EDUCATION
 
-National research university HSE, MOSCOW — BACHELOR, 2015 - 2019
+National research university HSE, MOSCOW — BACHELOR, 2019 - 2023
 
 Software engineering
 
-National research university HSE, MOSCOW — MASTER, 2019 - 2021
+National research university HSE, MOSCOW — MASTER, 2023 - 2025
 
 Modern Computer Science
 
